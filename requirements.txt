@@ -2,3 +2,4 @@ instagrapi
 yt-dlp
 apscheduler
 python-dotenv
+Pillow>=8.1.1
