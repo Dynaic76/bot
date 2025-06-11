@@ -1,0 +1,4 @@
+instagrapi
+yt-dlp
+apscheduler
+python-dotenv
