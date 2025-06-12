@@ -1,0 +1,18 @@
+# .dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+venv
+.env
+.git
+.gitignore
+README.md
+
+# Do not include runtime data in the image
+reels/
+*_session.json
+approval_flags.json
+demo_flags.json
